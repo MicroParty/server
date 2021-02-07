@@ -1,3 +1,3 @@
 # Micro Party
 
-A Video Calling Extension for Netflix, Disney Plus, Youtube and more
+A Peer to Peer Privacy Respecting Video Calling Extension for Netflix, Disney Plus, Youtube and more
